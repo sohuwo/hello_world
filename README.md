@@ -1,5 +1,5 @@
-# hello_world
-just soso
+# Hello_world
+Just soso
 
-i go to here for my new life. will it take me  there? 
-now it seems funny.
+I go to here for my new life. Will it take me  there? 
+Now it seems funny.
